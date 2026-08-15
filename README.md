@@ -106,3 +106,82 @@ Graphs
 Recursion & Backtracking
 Greedy Algorithms
 Dynamic Programming
+
+---
+
+## 🤖 My Development Philosophy
+
+> **Build → Understand → Improve → Automate**
+
+I'm particularly interested in finding better ways to develop software using AI.
+
+My long-term goal is to create an **AI-first development workflow** where AI can assist across the entire development lifecycle:
+
+```text
+Idea
+  ↓
+Planning
+  ↓
+Architecture
+  ↓
+Frontend
+  ↓
+Backend
+  ↓
+Database
+  ↓
+Testing
+  ↓
+Deployment
+  ↓
+Iteration
+
+📈 What I'm Learning
+    🧠 Data Structures & Algorithms
+    ☕ Java
+    🌐 Full-Stack Development
+    🔧 Backend Engineering
+    🗄️ Database Design
+    ☁️ Deployment & DevOps
+    🤖 AI-assisted software development
+    🏗️ Software architecture and development workflows
+
+🎯 My Goals
+  Build production-quality full-stack applications
+  Become strong at DSA and problem solving
+  Prepare for software engineering placements
+  Improve backend and system design skills
+  Learn DevOps and deployment practices
+  Explore practical applications of AI in software development
+  Become a faster and more efficient software engineer
+```
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tdynasty19-tect&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdynasty19-tech&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="www.linkedin.com/in/nikhil-tiwari-b6963437a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/99bmtFtf4J/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+### 💡 A little about me
+
+I believe the best way to learn software development is to **build things, break things, understand why they broke, and build them better.**
+
+I'm currently on that journey. 🚀
+
+**Thanks for visiting my profile!**
