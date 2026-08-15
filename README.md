@@ -158,8 +158,8 @@ Iteration
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tdynasty19-tect&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdynasty19-tech&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tdynasty19-tech&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdynasty19-tech&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="170">
 </p>
 
 ---
@@ -167,7 +167,7 @@ Iteration
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="www.linkedin.com/in/nikhil-tiwari-b6963437a">
+  <a href="[www.linkedin.com/in/nikhil-tiwari-b6963437a](https://www.linkedin.com/in/nikhil-tiwari-b6963437a/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
