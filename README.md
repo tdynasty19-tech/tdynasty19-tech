@@ -155,13 +155,6 @@ Iteration
   Explore practical applications of AI in software development
   Become a faster and more efficient software engineer
 ```
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tdynasty19-tech&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tdynasty19-tech&layout=compact&theme=tokyonight)
-
----
 
 ## 🤝 Let's Connect
 
